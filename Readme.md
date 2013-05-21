@@ -10,4 +10,4 @@ And then update it to the newest version with `git extras update`
 
 At last, under your project directory, run `git line-summary`
 
-_Note: the command mmight be `git summary --lines` some day_
+_Note: the command might be `git summary --lines` some day_
